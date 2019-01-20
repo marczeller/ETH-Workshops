@@ -22,3 +22,9 @@ PDF in repo or Link here : https://docs.google.com/presentation/d/1s7fSMLS5V9eSO
 
 *(create your own copy)*
 
+# DEFI - Decentralized Finance - MakerDAO and DAI
+*feel free to copy and re-use*
+
+PDF in repo or Link here : https://docs.google.com/presentation/d/11qSzAcnTRHuJ6JEzbSfwIl0N2vxsUMuPTaYANaR8iQQ/edit?usp=sharing
+
+*(create your own copy)*
