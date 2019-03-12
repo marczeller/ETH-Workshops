@@ -1,11 +1,11 @@
 # Eth Meetups
 Workshops & Meetup slides Repo with PDF and slides links
 
-# EthCC Paris 2019 talk "Are all token 
+# EthCC Paris 2019 talk "Are all tokens useless ?" 
 *feel free to copy, modify and re-use*
 
 PDF in repo or Link here : https://docs.google.com/presentation/d/1CsZNlFXQ2r900sqjQ4F3buQulBGdZFSFoOqtfBsdbOw/edit?usp=sharing
-Video link : *soon*TM
+Video link : https://youtu.be/I7oQ4UEEOTQ
 
 # Workshop about The ENS 
 *feel free to copy, modify and re-use*
