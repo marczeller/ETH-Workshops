@@ -34,3 +34,6 @@ PDF in repo or Link here : https://docs.google.com/presentation/d/1s7fSMLS5V9eSO
 PDF in repo or Link here : https://docs.google.com/presentation/d/11qSzAcnTRHuJ6JEzbSfwIl0N2vxsUMuPTaYANaR8iQQ/edit?usp=sharing
 
 *(create your own copy)*
+
+# ALYRA Day1 May 2019 #defi :
+https://docs.google.com/presentation/d/16TwqKaiE8b5dQXS7tI4kFe8Bvo3NNmBJAjJ_ZWpv8FU/edit?usp=sharing
