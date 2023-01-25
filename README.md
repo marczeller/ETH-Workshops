@@ -38,6 +38,6 @@ PDF in repo or Link here : https://docs.google.com/presentation/d/11qSzAcnTRHuJ6
 # ALYRA Day1 May 2019 #defi :
 https://docs.google.com/presentation/d/16TwqKaiE8b5dQXS7tI4kFe8Bvo3NNmBJAjJ_ZWpv8FU/edit?usp=sharing
 
-# DeFI at the Block Cafe quick 101 ecosystem tour ;
+# DeFI at the Block Cafe quick 101 ecosystem tour;
 
 https://docs.google.com/presentation/d/192WTqY1Q70NSzoNZ4Yd1QlDPmJZ8_Vpr6pXW7P6Ir3U/edit?usp=sharing
